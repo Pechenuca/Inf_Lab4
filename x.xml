@@ -1,0 +1,30 @@
+<Timetable>
+    <day>ПН
+        <first>
+        <time>10:00-11:30</time>
+        <week>Четная</week>
+        <class>535 ауд.</class>
+        <corpus>Биржевая линия, д.16, лит.А</corpus>
+        <lesson>Физика(практика)</lesson>
+        <prep>Частый Виктор Леонидович</prep>
+        </first>
+
+        <second>
+        <time>10:00-11:30</time>
+        <week>нечетная</week>
+        <class>535 ауд.</class>
+        <corpus>Биржевая линия, д.16, лит.А</corpus>
+        <lesson>Физика(практика)</lesson>
+        <prep>Частый Виктор Леонидович</prep>
+        </second>
+
+        <third>
+        <time>11:40-13:10</time>
+        <class>550 ауд.</class>
+        <corpus>Биржевая линия, д.16, лит.А</corpus>
+        <lesson>Физика(лекция)</lesson>
+        <prep>Нурыев Рустам Какабаевич</prep>
+        </third>
+
+    </day>
+</Timetable>

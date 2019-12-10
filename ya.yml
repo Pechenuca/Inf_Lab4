@@ -1,0 +1,47 @@
+!!python/object/apply:collections.OrderedDict
+- - - Timetable
+    - !!python/object/apply:collections.OrderedDict
+      - - - day
+          - !!python/object/apply:collections.OrderedDict
+            - - - first
+                - !!python/object/apply:collections.OrderedDict
+                  - - - time
+                      - 10:00-11:30
+                    - - week
+                      - Четная
+                    - - class
+                      - 535 ауд.
+                    - - corpus
+                      - Биржевая линия, д.16, лит.А
+                    - - lesson
+                      - Физика(практика)
+                    - - prep
+                      - Частый Виктор Леонидович
+              - - second
+                - !!python/object/apply:collections.OrderedDict
+                  - - - time
+                      - 10:00-11:30
+                    - - week
+                      - нечетная
+                    - - class
+                      - 535 ауд.
+                    - - corpus
+                      - Биржевая линия, д.16, лит.А
+                    - - lesson
+                      - Физика(практика)
+                    - - prep
+                      - Частый Виктор Леонидович
+              - - third
+                - !!python/object/apply:collections.OrderedDict
+                  - - - time
+                      - 11:40-13:10
+                    - - class
+                      - 550 ауд.
+                    - - corpus
+                      - Биржевая линия, д.16, лит.А
+                    - - lesson
+                      - Физика(лекция)
+                    - - prep
+                      - Нурыев Рустам Какабаевич
+              - - '#text'
+                - ПН
